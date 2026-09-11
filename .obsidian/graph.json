@@ -1,0 +1,156 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"AI & Machine Learning\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"App Service\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Availability of services\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11938793
+      }
+    },
+    {
+      "query": "path:\"Azure Economics\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"Azure Functions\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 43775
+      }
+    },
+    {
+      "query": "path:\"Azure pricing Calculator\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 255
+      }
+    },
+    {
+      "query": "path:\"Azure's Core Components\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:\"Benefits of cloud services\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:\"Big Data and analytics\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Cloud Services Types\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Computing Services Overview in Azure\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8965120
+      }
+    },
+    {
+      "query": "path:Containers  ",
+      "color": {
+        "a": 1,
+        "rgb": 506808
+      }
+    },
+    {
+      "query": "path:\"Data Processing in Azure\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"How To Create a Storage Account in Azure Storage\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15662848
+      }
+    },
+    {
+      "query": "path:\"How To Create a VM in Azure Cloud\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8784137
+      }
+    },
+    {
+      "query": "path:\"Navigating storage needs\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:\"Security and Compliance in Azure\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395121
+      }
+    },
+    {
+      "query": "path: \"Azure Resource Manager\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1150720
+      }
+    },
+    {
+      "query": "path:\"Migration to Azure\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.44263641697633,
+  "lineSizeMultiplier": 1.65730490905535,
+  "collapse-forces": false,
+  "centerStrength": 0.292783101897125,
+  "repelStrength": 10.0378904249872,
+  "linkStrength": 0.424212790925093,
+  "linkDistance": 370,
+  "scale": 0.13348388671875,
+  "close": true
+}

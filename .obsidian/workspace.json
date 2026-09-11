@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "8c48eb64e8a07b19",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b725f92c5076c2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85f3ed3b79c27f0c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "984933047bb70ca2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5f6adc694c1b999",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73a83ebcb53e5ffa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "072076183858a5b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "62ffef225bd29da9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313
+  },
+  "right": {
+    "id": "db554017711bad9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "09e06dbc99566a57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "deda30f187151a03",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Relationships/Question to ask when trying the.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "19a9587736b5f441",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f4d447156f466346",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "307a5f1fd421b931",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8e793a942fc0508a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "796392ed0bca8db1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": true,
+      "obsidian-git:Open Git source control": false,
+      "galaxy-view:Open Galaxy View": false,
+      "obsidian-importer:Import notes": false,
+      "colorful-folders:Toggle stealth mode": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "85f3ed3b79c27f0c",
+  "lastOpenFiles": [
+    "Migration to Azure/How To Migrate to Azure.md",
+    "Migration to Azure/Integration strategies/Refactor.md",
+    "Migration to Azure/Integration strategies/Rearchitect.md",
+    "Migration to Azure/Integration strategies/Rebuild.md",
+    "Migration to Azure/Integration strategies/Lift and Shift.md",
+    "Migration to Azure/Migration Best Practices/1-Assess infrastructure to determine challenges.md",
+    "Migration to Azure/Migration Best Practices/3-Perform tests post-migration.md",
+    "Migration to Azure/Migration Best Practices/4-Take a phased approach and prioritize security from the beginning.md",
+    "Migration to Azure/Migration Best Practices/2-Start with minor applications or data sets to manage potential mistakes.md",
+    "Migration to Azure/Azure Database Migration Service/Azure Database Migration Service.md",
+    "Migration to Azure/Migration Best Practices",
+    "attachements/Azure Database Migration Service.png",
+    "attachements/Azure Migrate.png",
+    "Migration to Azure/Integration Strategies.md",
+    "Migration to Azure/Azure Recovery/Azure Site Recovery.md",
+    "Migration to Azure/Azure Database Migration Service",
+    "Migration to Azure/Connectivity/Example/Azure migrate.md",
+    "Migration to Azure/Azure Recovery",
+    "Migration to Azure/Connectivity/Hybrid Connectivity.md",
+    "Migration to Azure/Connectivity/Example",
+    "Azure Resource Manager/Management Tools/Azure Blueprints.md",
+    "Migration to Azure/Connectivity",
+    "Azure Resource Manager/ARM (Azure Resource Manager).md",
+    "Migration to Azure/Integration strategies",
+    "Migration to Azure",
+    "Azure Resource Manager/Management Tools/Azure Policy.md",
+    "Azure's Core Components/Azure Resource Manager (ARM).md",
+    "Azure Resource Manager/Management Tools/US banks must deploy resources in US Azure regions.md",
+    "Azure Resource Manager/Management Tools/Azure Advisor.md",
+    "Azure Resource Manager/Management Tools/Azure Automation.md",
+    "Azure Resource Manager/Management Tools/Azure Monitor.md",
+    "Azure Resource Manager/Management Tools",
+    "Azure Resource Manager",
+    "Azure Economics/Azure Strategies to reduce the cost.md",
+    "Azure Economics/Azure pricing.md",
+    "Azure Economics/Reduce the Cost/Spot Instances.md",
+    "Azure Economics/Reduce the Cost/Reservation.md",
+    "attachements/Azure Calculator URL.png",
+    "Azure pricing Calculator",
+    "attachements/Value == Price.png",
+    "attachements/Azure Pricing Calculator.png",
+    "attachements/Azure BluePrint.png",
+    "attachements/Azure Sentinel.png",
+    "attachements/Azure Key.png",
+    "attachements/Key Vault.png",
+    "attachements/Azure Information Protection.png",
+    "Untitled.canvas",
+    "canvas/MongoDB Storage.canvas",
+    "canvas/NoSQL Vs SQL.canvas",
+    "canvas/JSON.canvas",
+    "canvas/Data Modeling.canvas"
+  ]
+}

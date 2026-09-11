@@ -1,0 +1,380 @@
+{
+  "bloom": {
+    "strength": 0.28,
+    "radius": 0.4,
+    "threshold": 0.3
+  },
+  "physics": {
+    "repel": 300,
+    "linkDistance": 110,
+    "linkStrength": 1.5,
+    "centerPull": 0.02,
+    "flatten": 0,
+    "coreGravity": 0,
+    "spiral": 0
+  },
+  "look": {
+    "nodeSize": 0.8,
+    "linkOpacity": 0.08,
+    "linkCurve": 0,
+    "twinkle": 0.3,
+    "sizeBy": "degree"
+  },
+  "space": {
+    "nebula": 0.55,
+    "fieldStars": 0.65,
+    "clusterClouds": 0.25
+  },
+  "cruise": true,
+  "cruiseSpeed": 1.8,
+  "showUnresolved": false,
+  "showOrphans": true,
+  "showTags": true,
+  "tagLens": null,
+  "colorByTag": false,
+  "showTagHubs": false,
+  "tagHubLimit": 20,
+  "hiddenFolders": [],
+  "filterQuery": "",
+  "showGhostEdges": false,
+  "showStarfield": true,
+  "colorTheme": "hubble",
+  "qualityOverride": "auto",
+  "preset": "deep-space",
+  "activePreset": "deepfield",
+  "customPresets": [],
+  "language": "auto",
+  "panelSections": {
+    "filter": true,
+    "nav": true,
+    "physics": false,
+    "bloom": true,
+    "tags": true
+  },
+  "panelWidth": 300,
+  "hintsSeen": false,
+  "selectionDepth": 2,
+  "tour": {
+    "speed": 0.5
+  },
+  "colorGroups": [
+    {
+      "query": "path:Spring",
+      "color": "#46d4dc"
+    },
+    {
+      "query": "path:System Design",
+      "color": "#ffc35c"
+    },
+    {
+      "query": "path:Spark",
+      "color": "#d05a32"
+    },
+    {
+      "query": "path:NLP",
+      "color": "#7fd0a0"
+    },
+    {
+      "query": "path:Unlabeled",
+      "color": "#e8d9a0"
+    },
+    {
+      "query": "path:RNN (DL)",
+      "color": "#5a9bd8"
+    },
+    {
+      "query": "path:Sentiments Analysis",
+      "color": "#d87fa8"
+    },
+    {
+      "query": "path:LSTM(Long-short term models)",
+      "color": "#9a7fe0"
+    },
+    {
+      "query": "path:dbt (data build tool)",
+      "color": "#cfd8e8"
+    }
+  ],
+  "positionCache": {
+    "Data Processing in Azure/Processing Tools Variety/Azure Data Factory.md": [
+      60.1,
+      -136,
+      381.2
+    ],
+    "Data Processing in Azure/Processing Tools Variety/Azure Databricks.md": [
+      -121.4,
+      234.5,
+      -285.4
+    ],
+    "Data Processing in Azure/Processing Tools Variety/Azure Stream Analytics.md": [
+      362,
+      145.8,
+      -159.6
+    ],
+    "Data Processing in Azure/Processing Tools Variety/Azure Synapse Analytics.md": [
+      -253,
+      86.7,
+      -290.8
+    ],
+    "Data Processing in Azure/Processing Tools.md": [
+      -342.5,
+      49.8,
+      -152.2
+    ],
+    "Data Processing in Azure/ETL Processes.md": [
+      35.1,
+      38.5,
+      494.7
+    ],
+    "Data Processing in Azure/Real-Time Vs Batch Processing.md": [
+      -264.9,
+      -238.4,
+      -139.6
+    ],
+    "How To Create a Storage Account in Azure Storage/Guide to configure an account storage.md": [
+      -264,
+      126.6,
+      118.3
+    ],
+    "How To Create a Storage Account in Azure Storage/6-final step Review the Storage account.md": [
+      -345.8,
+      191.9,
+      62.1
+    ],
+    "How To Create a Storage Account in Azure Storage/5-Enable versioning for Blobs (this option is under the Data protection in order to have a full historical data across the blobs).md": [
+      -351.9,
+      51,
+      145.8
+    ],
+    "How To Create a Storage Account in Azure Storage/4-Choose the redundancy option for your storage.md": [
+      -220.3,
+      66.5,
+      210.3
+    ],
+    "How To Create a Storage Account in Azure Storage/3-Set a name for the storage account (it must be unique).md": [
+      -266.7,
+      6.9,
+      91.9
+    ],
+    "How To Create a Storage Account in Azure Storage/2-Set the Resource groups and subscription.md": [
+      215.8,
+      107.5,
+      -288.7
+    ],
+    "How To Create a Storage Account in Azure Storage/2-Create new storage account.md": [
+      -185.4,
+      209.1,
+      153.2
+    ],
+    "How To Create a Storage Account in Azure Storage/1-Navigate to the Storage Accounts in the left bar menu.md": [
+      -241.8,
+      218.7,
+      45.2
+    ],
+    "Navigating storage needs/Data Redundancy.md": [
+      186.2,
+      170.8,
+      329.3
+    ],
+    "Navigating storage needs/Storage offerings/Azure Backups And Recovery.md": [
+      219.5,
+      -144.2,
+      217.7
+    ],
+    "Navigating storage needs/Storage offerings/Azure Files.md": [
+      -456.9,
+      -24.5,
+      246.7
+    ],
+    "Navigating storage needs/Storage offerings/Azure Data Lake Storage.md": [
+      -481.3,
+      -25.6,
+      -139.7
+    ],
+    "Navigating storage needs/Storage offerings/Azure Blob.md": [
+      334.5,
+      -13.8,
+      337.4
+    ],
+    "Navigating storage needs/Azure Storage needs.md": [
+      202.5,
+      -200.9,
+      -1.6
+    ],
+    "Containers/Microservices.md": [
+      455.4,
+      -3.5,
+      222
+    ],
+    "Containers/Azure Container Apps.md": [
+      -53.1,
+      -9.6,
+      -493.9
+    ],
+    "Containers/Azure Container Instances.md": [
+      -393.5,
+      -24.7,
+      -301.6
+    ],
+    "Containers/Azure Kubernetes Services.md": [
+      -145.9,
+      -335.6,
+      89.3
+    ],
+    "Containers/Kubernetes.md": [
+      100,
+      325.7,
+      -81.8
+    ],
+    "Containers/Containers.md": [
+      192.4,
+      -78.9,
+      -393.7
+    ],
+    "Azure Functions/Functions.md": [
+      -494.5,
+      -59.1,
+      17.8
+    ],
+    "App Service/App Service.md": [
+      383.2,
+      -138.6,
+      27.2
+    ],
+    "Computing Services Overview in Azure/What is Compute ?.md": [
+      212.7,
+      -26.8,
+      443
+    ],
+    "Computing Services Overview in Azure/Serverless vs Stateless.md": [
+      31.2,
+      147,
+      -361.1
+    ],
+    "AI & Machine Learning/Databricks.md": [
+      337.6,
+      38.9,
+      147.7
+    ],
+    "AI & Machine Learning/Cognitive Services.md": [
+      -76.4,
+      15.7,
+      341.3
+    ],
+    "AI & Machine Learning/Machine Learning.md": [
+      -24,
+      -200.5,
+      215.2
+    ],
+    "Big Data and analytics/Stream Analytics.md": [
+      -131.4,
+      -12.3,
+      483.2
+    ],
+    "Big Data and analytics/Synapse.md": [
+      120.4,
+      -356,
+      86.5
+    ],
+    "Big Data and analytics/HDInsight.md": [
+      76.8,
+      80,
+      222.4
+    ],
+    "Big Data and analytics/Azure Data Lake.md": [
+      322.1,
+      14.9,
+      -378.7
+    ],
+    "Availability of services/Availability of services.md": [
+      475.8,
+      -25.1,
+      -120.6
+    ],
+    "Cloud Services Types/Cloud Service Types.md": [
+      244.2,
+      217.1,
+      78.8
+    ],
+    "How To Create a VM in Azure Cloud/Guide to create a virtual machine in Azure.md": [
+      10.1,
+      -47,
+      -146.1
+    ],
+    "How To Create a VM in Azure Cloud/5-Configure Disk Capacity in the VM.md": [
+      53,
+      -156.6,
+      -181.4
+    ],
+    "How To Create a VM in Azure Cloud/4-Configure the username.md": [
+      -26.2,
+      -116.6,
+      -237.6
+    ],
+    "How To Create a VM in Azure Cloud/3-Configure your virtual machine.md": [
+      -103,
+      -85.8,
+      -143.3
+    ],
+    "How To Create a VM in Azure Cloud/2-Create a New Virtual Machine.md": [
+      67.2,
+      59.7,
+      -150.9
+    ],
+    "How To Create a VM in Azure Cloud/1-Navigate to the menu bar and select \"Virtual Machines\".md": [
+      2.9,
+      -120.7,
+      -52
+    ],
+    "Azure's Core Components/Core offering.md": [
+      273.4,
+      -67.3,
+      -111.8
+    ],
+    "Azure's Core Components/Azure Resource Manager (ARM).md": [
+      -319,
+      -125.5,
+      312.8
+    ],
+    "Azure's Core Components/Resource Groups.md": [
+      -262.1,
+      10.9,
+      415.7
+    ],
+    "Azure's Core Components/Resources.md": [
+      -116.3,
+      116.2,
+      -32.6
+    ],
+    "Benefits of cloud services/Predictability.md": [
+      -292.2,
+      -39.1,
+      -395.8
+    ],
+    "Benefits of cloud services/Rellability.md": [
+      -156.4,
+      -64,
+      -422.8
+    ],
+    "Benefits of cloud services/Scalability.md": [
+      398.5,
+      -72.7,
+      -270.6
+    ],
+    "Benefits of cloud services/High Availability.md": [
+      89,
+      -27.7,
+      -491.7
+    ],
+    "Azure/Refresher.md": [
+      493.7,
+      44.9,
+      29.6
+    ],
+    "Azure/Intro.md": [
+      56.4,
+      318.1,
+      116.7
+    ]
+  }
+}

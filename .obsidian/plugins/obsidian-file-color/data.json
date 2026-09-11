@@ -1,0 +1,120 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "hRcQ1x_WF-XBvEbBGOeHp",
+      "name": "",
+      "value": "#e60000"
+    },
+    {
+      "id": "fiTWPxgwo6wll5bH2FnQC",
+      "name": "",
+      "value": "#ffffff"
+    },
+    {
+      "id": "1spNlOQWwT_-AbS4oT9I6",
+      "name": "",
+      "value": "#1c22d9"
+    },
+    {
+      "id": "cTLo8J9A3z4gIF9RV33JR",
+      "name": "",
+      "value": "#00fa4b"
+    },
+    {
+      "id": "gbSS4iCveuoAzQH5tsqIv",
+      "name": "",
+      "value": "#ff6600"
+    },
+    {
+      "id": "NycBUeDHhbwbn_rRSkCHR",
+      "name": "",
+      "value": "#fbff00"
+    },
+    {
+      "id": "AZwtyj-hJHCslXnkH0NF2",
+      "name": "",
+      "value": "#e77c74"
+    },
+    {
+      "id": "KR67_yV05_w0oL2A2w7V5",
+      "name": "",
+      "value": "#0ffbff"
+    },
+    {
+      "id": "nw7qf3Xuh468iNBspSY7U",
+      "name": "",
+      "value": "#ea7b97"
+    },
+    {
+      "id": "mq3OMwCJ9wX6TiW3_Zs1N",
+      "name": "",
+      "value": "#ae00ff"
+    },
+    {
+      "id": "ets8dVtIK-UUt9ndSdOTK",
+      "name": "",
+      "value": "#7a0000"
+    },
+    {
+      "id": "itTMZ8tPjgaLtM4ldNJfp",
+      "name": "",
+      "value": "#ff00c8"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "attachments",
+      "color": "1spNlOQWwT_-AbS4oT9I6"
+    },
+    {
+      "path": "AzureDataFactory",
+      "color": "hRcQ1x_WF-XBvEbBGOeHp"
+    },
+    {
+      "path": "dbt (data build tool)",
+      "color": "gbSS4iCveuoAzQH5tsqIv"
+    },
+    {
+      "path": "Java",
+      "color": "AZwtyj-hJHCslXnkH0NF2"
+    },
+    {
+      "path": "LSTM(Long-short term models)",
+      "color": "cTLo8J9A3z4gIF9RV33JR"
+    },
+    {
+      "path": "NLP",
+      "color": "NycBUeDHhbwbn_rRSkCHR"
+    },
+    {
+      "path": "RNN (DL)",
+      "color": "fiTWPxgwo6wll5bH2FnQC"
+    },
+    {
+      "path": "Sentiments Analysis",
+      "color": "KR67_yV05_w0oL2A2w7V5"
+    },
+    {
+      "path": "Spark",
+      "color": "itTMZ8tPjgaLtM4ldNJfp"
+    },
+    {
+      "path": "Spring",
+      "color": "KR67_yV05_w0oL2A2w7V5"
+    },
+    {
+      "path": "System Design",
+      "color": "mq3OMwCJ9wX6TiW3_Zs1N"
+    },
+    {
+      "path": "Unlabeled",
+      "color": "ets8dVtIK-UUt9ndSdOTK"
+    },
+    {
+      "path": "canvas/Hero.canvas",
+      "color": "hRcQ1x_WF-XBvEbBGOeHp"
+    }
+  ]
+}
